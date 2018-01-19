@@ -10,57 +10,160 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Automation Scripts: ~../../../Documents/unanimated-Aegisub-Scripts-master/ua.ApplyFade.lua
 Last Style Storage: Default
 Audio File: Aimer-Choucho Musubi.mp4
 Video File: Aimer-Choucho Musubi.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 11
-Video Position: 2817
+Active Line: 3
+Video Position: 10558
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Translate-furigana,DejaVu Serif,22.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,3,10,10,10,1
+Style: romaji-furigana,Lobster 1.4,22.5,&H00F3AFF2,&H000000FF,&H00380037,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,15,1
+Style: kanji-furigana,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,100,1
+Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: kanji,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,100,1
-Style: romaji,DejaVu Serif,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,15,1
-Style: Translate,DejaVu Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,10,10,10,1
+Style: kanji,SoukouMincho,30,&H00F3AFF2,&H000000FF,&H00380037,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,68,1
+Style: romaji,Lobster 1.4,42,&H00F3AFF2,&H000000FF,&H00380037,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,13,1
+Style: Translate,Charmelade DEMO,35,&H00F3AFF2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,25,1
+Style: Credit,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:20.44,0:00:26.94,romaji,,0,0,0,,katappo de maru o tsukutte shikkari mottete
-Dialogue: 0,0:00:26.94,0:00:33.45,romaji,,0,0,0,,mou katappo de sono maru no ushiro o gurutto mawatte
-Dialogue: 0,0:00:33.45,0:00:40.16,romaji,,0,0,0,,aida ni dekita pokke ni haite dete kuru no mattete
-Dialogue: 0,0:00:40.16,0:00:43.92,romaji,,0,0,0,,detekita tokoro o mukae ni kite
-Dialogue: 0,0:00:43.92,0:00:48.23,romaji,,0,0,0,,"se- no" de hippatte
-Dialogue: 0,0:00:48.23,0:00:54.30,romaji,,0,0,0,,hajime wa nantomo nasakenai katachi dato shitemo
-Dialogue: 0,0:00:54.30,0:01:04.34,romaji,,0,0,0,,onaji dake chikara o komete
-Dialogue: 0,0:01:04.34,0:01:10.55,romaji,,0,0,0,,hane wa ookiku musubime wa kataku
-Dialogue: 0,0:01:10.55,0:01:17.86,romaji,,0,0,0,,naru you ni kitsuku musundeitehoshii no
-Dialogue: 0,0:01:17.86,0:01:24.26,romaji,,0,0,0,,ude wa koko ni omoide wa tooku ni
-Dialogue: 0,0:01:24.26,0:01:31.64,romaji,,0,0,0,,oitoitehoshii hoshii no
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,katappo demo hippachaeba hodokechau kedo
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,tsukutta mono kowasu nowa haruka ni kantan dakedo
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,dakedo hodoku toki mo sou, chanto onaji you ni ne
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,wakatteru yo demo dekitara ne
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,"se- no" de hippatte
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,hodoke ya shinai you ni to negatte chikara komete wa
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,hirogesugita hane ni tomadou
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,hane wa ookiku musubime wa kataku
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,naru you ni kitsuku musundeitehoshii no
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,yume wa koko ni omoide wa tooku ni
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,kidzukeba soko ni aru kurai ga ii
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,damatte hippattari shinaide yo
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,bukakkou na chou ni shinaide yo
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,musunda tsumori ga hodoiteitari
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,yurumeta tsumori ga shimeteitari
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,kono aokute hiroi sekai ni
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,musuu ni chirabatta naka kara
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,betsubetsu ni futari eranda ito o
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,otagai taguriyoseattanda
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,musubaretanjanaku musundanda
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,futari de "se- no" de hippattanda
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,ookiku mo chiisaku mo narisuginai you ni
-Dialogue: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,,chikara o kometanda
-Dialogue: 0,0:00:00.00,0:00:05.00,romaji,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,romaji,,0,0,0,template char,!retime("line",0,100)!{\an5\pos($center,$middle)\fade(200,200)}
+Comment: 0,0:00:00.00,0:00:00.00,kanji,,0,0,0,template char,!retime("line",0,100)!{\an5\pos($center,$middle)\fade(200,200)}
+Comment: 0,0:00:00.00,0:00:00.00,Translate,,0,0,0,template char,!retime("line",0,100)!{\an5\pos($center,$middle)\fade(200,200)}
+Dialogue: 0,0:05:50.67,0:05:53.10,Credit,,0,0,0,,{\an5\fnAbyssinica SIL\fs45\bord0\shad0\c&HE4D3D6&}Uma-poi
+Dialogue: 0,0:00:20.44,0:00:26.94,romaji,,0,0,0,,{\fad(150,150)}katappo  de  maru  o  tsukutte  shikkari  mottete
+Dialogue: 0,0:00:26.94,0:00:33.45,romaji,,0,0,0,,{\fad(150,150)}mou  katappo  de  sono  maru  no  ushiro  o  gurutto  mawatte
+Dialogue: 0,0:00:33.45,0:00:40.16,romaji,,0,0,0,,{\fad(150,150)}aida  ni  dekita  pokke  ni  haite  dete  kuru  no  mattete
+Dialogue: 0,0:00:40.16,0:00:43.92,romaji,,0,0,0,,{\fad(150,150)}detekita  tokoro  o  mukae  ni  kite
+Dialogue: 0,0:00:43.92,0:00:48.23,romaji,,0,0,0,,{\fad(150,150)}"se-no"  de  hippatte
+Dialogue: 0,0:00:48.23,0:00:54.30,romaji,,0,0,0,,{\fad(150,150)}hajime  wa  nantomo  nasakenai  katachi  dato  shitemo
+Dialogue: 0,0:00:54.30,0:01:04.34,romaji,,0,0,0,,{\fad(150,150)}onaji  dake  chikara  o  komete
+Dialogue: 0,0:01:04.34,0:01:10.55,romaji,,0,0,0,,{\fad(150,150)}hane  wa  ookiku  musubime  wa  kataku
+Dialogue: 0,0:01:10.55,0:01:17.86,romaji,,0,0,0,,{\fad(150,150)}naru  you  ni  kitsuku  musundeitehoshii  no
+Dialogue: 0,0:01:17.86,0:01:24.26,romaji,,0,0,0,,{\fad(150,150)}ude  wa  koko  ni  omoide  wa  tooku  ni
+Dialogue: 0,0:01:24.26,0:01:31.64,romaji,,0,0,0,,{\fad(150,150)}oitoitehoshii  hoshii  no
+Dialogue: 0,0:01:41.60,0:01:48.36,romaji,,0,0,0,,{\fad(150,150)}katappo  demo  hippachaeba  hodokechau  kedo
+Dialogue: 0,0:01:48.36,0:01:54.39,romaji,,0,0,0,,{\fad(150,150)}tsukutta  mono  kowasu  nowa  haruka  ni  kantan  dakedo
+Dialogue: 0,0:01:54.39,0:02:01.77,romaji,,0,0,0,,{\fad(150,150)}dakedo  hodoku  toki  mo  sou,  chanto  onaji  you  ni  ne
+Dialogue: 0,0:02:01.77,0:02:04.87,romaji,,0,0,0,,{\fad(150,150)}wakatteru  yo  demo  dekitara  ne
+Dialogue: 0,0:02:04.87,0:02:09.11,romaji,,0,0,0,,{\fad(150,150)}"se-no"  de  hippatte
+Dialogue: 0,0:02:09.11,0:02:15.58,romaji,,0,0,0,,{\fad(150,150)}hodoke  ya  shinai  you  ni  to  negatte  chikara  komete  wa
+Dialogue: 0,0:02:15.58,0:02:25.39,romaji,,0,0,0,,{\fad(150,150)}hirogesugita  hane  ni  tomadou
+Dialogue: 0,0:02:25.39,0:02:31.90,romaji,,0,0,0,,{\fad(150,150)}hane  wa  ookiku  musubime  wa  kataku
+Dialogue: 0,0:02:31.90,0:02:39.11,romaji,,0,0,0,,{\fad(150,150)}naru  you  ni  kitsuku  musundeitehoshii  no
+Dialogue: 0,0:02:39.11,0:02:45.48,romaji,,0,0,0,,{\fad(150,150)}yume  wa  koko  ni  omoide  wa  tooku  ni
+Dialogue: 0,0:02:45.48,0:02:55.55,romaji,,0,0,0,,{\fad(150,150)}kidzukeba  soko  ni  aru  kurai  ga  ii
+Dialogue: 0,0:02:55.55,0:02:58.79,romaji,,0,0,0,,{\fad(150,150)}damatte  hippattari  shinaide  yo
+Dialogue: 0,0:02:58.79,0:03:02.26,romaji,,0,0,0,,{\fad(150,150)}bukakkou  na  chou  ni  shinaide  yo
+Dialogue: 0,0:03:02.26,0:03:05.73,romaji,,0,0,0,,{\fad(150,150)}musunda  tsumori  ga  hodoiteitari
+Dialogue: 0,0:03:05.73,0:03:11.07,romaji,,0,0,0,,{\fad(150,150)}yurumeta  tsumori  ga  shimeteitari
+Dialogue: 0,0:03:34.39,0:03:37.76,romaji,,0,0,0,,{\fad(150,150)}kono  aokute  hiroi  sekai  ni
+Dialogue: 0,0:03:37.76,0:03:41.03,romaji,,0,0,0,,{\fad(150,150)}musuu  ni  chirabatta  naka  kara
+Dialogue: 0,0:03:41.03,0:03:44.54,romaji,,0,0,0,,{\fad(150,150)}betsubetsu  ni  futari  eranda  ito  o
+Dialogue: 0,0:03:44.54,0:03:47.81,romaji,,0,0,0,,{\fad(150,150)}otagai  taguriyoseattanda
+Dialogue: 0,0:03:47.81,0:03:51.24,romaji,,0,0,0,,{\fad(150,150)}musubaretanjanaku  musundanda
+Dialogue: 0,0:03:51.24,0:03:54.68,romaji,,0,0,0,,{\fad(150,150)}futari  de  "se-no"  de  hippattanda
+Dialogue: 0,0:03:54.68,0:03:59.02,romaji,,0,0,0,,{\fad(150,150)}ookiku  mo  chiisaku  mo  narisuginai  you  ni
+Dialogue: 0,0:03:59.02,0:04:01.49,romaji,,0,0,0,,{\fad(150,150)}chikara  o  kometanda
+Dialogue: 0,0:04:01.49,0:04:04.86,romaji,,0,0,0,,{\fad(150,150)}kono  aokute  hiroi  sekai  ni
+Dialogue: 0,0:04:04.86,0:04:08.13,romaji,,0,0,0,,{\fad(150,150)}musuu  ni  chirabatta  naka  kara
+Dialogue: 0,0:04:08.13,0:04:11.64,romaji,,0,0,0,,{\fad(150,150)}betsubetsu  ni  futari  eranda  ito  o
+Dialogue: 0,0:04:11.64,0:04:14.91,romaji,,0,0,0,,{\fad(150,150)}otagai  taguriyoseattanda
+Dialogue: 0,0:04:14.91,0:04:18.34,romaji,,0,0,0,,{\fad(150,150)}musubaretanjanaku  musundanda
+Dialogue: 0,0:04:18.34,0:04:21.78,romaji,,0,0,0,,{\fad(150,150)}futari  de  "se-no"  de  hippattanda
+Dialogue: 0,0:04:21.78,0:04:26.12,romaji,,0,0,0,,{\fad(150,150)}ookiku  mo  chiisaku  mo  narisuginai  you  ni
+Dialogue: 0,0:04:26.12,0:04:28.59,romaji,,0,0,0,,{\fad(150,150)}chikara  o  kometanda
+Dialogue: 0,0:00:00.00,0:00:05.00,romaji,,0,0,0,,{\fad(150,150)}
+Dialogue: 0,0:00:20.44,0:00:26.94,kanji,,0,0,0,,{\fad(150,150)}片っぽで丸を作って　しっかり持ってて
+Dialogue: 0,0:00:26.94,0:00:33.45,kanji,,0,0,0,,{\fad(150,150)}もう片っぽでその丸の後ろを　ぐるっと回って
+Dialogue: 0,0:00:33.45,0:00:40.16,kanji,,0,0,0,,{\fad(150,150)}間にできたポッケに入って　出て来るの待ってて
+Dialogue: 0,0:00:40.16,0:00:43.92,kanji,,0,0,0,,{\fad(150,150)}出てきたところを迎えにきて
+Dialogue: 0,0:00:43.92,0:00:48.23,kanji,,0,0,0,,{\fad(150,150)}「せーの」で引っぱって
+Dialogue: 0,0:00:48.23,0:00:54.30,kanji,,0,0,0,,{\fad(150,150)}はじめはなんとも　情けない形だとしても
+Dialogue: 0,0:00:54.30,0:01:04.34,kanji,,0,0,0,,{\fad(150,150)}同じだけ力を込めて
+Dialogue: 0,0:01:04.34,0:01:10.55,kanji,,0,0,0,,{\fad(150,150)}羽根は大きく　結び目は固く
+Dialogue: 0,0:01:10.55,0:01:17.86,kanji,,0,0,0,,{\fad(150,150)}なるようにきつく　結んでいてほしいの
+Dialogue: 0,0:01:17.86,0:01:24.26,kanji,,0,0,0,,{\fad(150,150)}腕はここに　想い出は遠くに
+Dialogue: 0,0:01:24.26,0:01:31.64,kanji,,0,0,0,,{\fad(150,150)}置いておいてほしい　ほしいの
+Dialogue: 0,0:01:41.60,0:01:48.36,kanji,,0,0,0,,{\fad(150,150)}片っぽでも引っ張っちゃえば　ほどけちゃうけど
+Dialogue: 0,0:01:48.36,0:01:54.39,kanji,,0,0,0,,{\fad(150,150)}作ったもの壊すのは　遥かに　簡単だけど
+Dialogue: 0,0:01:54.39,0:02:01.77,kanji,,0,0,0,,{\fad(150,150)}だけどほどく時も　そう、ちゃんと　同じようにね
+Dialogue: 0,0:02:01.77,0:02:04.87,kanji,,0,0,0,,{\fad(150,150)}分かってるよ　でもできたらね
+Dialogue: 0,0:02:04.87,0:02:09.11,kanji,,0,0,0,,{\fad(150,150)}「せーの」で引っ張って
+Dialogue: 0,0:02:09.11,0:02:15.58,kanji,,0,0,0,,{\fad(150,150)}ほどけやしないように　と願って力込めては
+Dialogue: 0,0:02:15.58,0:02:25.39,kanji,,0,0,0,,{\fad(150,150)}広げすぎた羽根に　戸惑う
+Dialogue: 0,0:02:25.39,0:02:31.90,kanji,,0,0,0,,{\fad(150,150)}羽根は大きく　結び目は固く
+Dialogue: 0,0:02:31.90,0:02:39.11,kanji,,0,0,0,,{\fad(150,150)}なるようにきつく　結んでいてほしいの
+Dialogue: 0,0:02:39.11,0:02:45.48,kanji,,0,0,0,,{\fad(150,150)}夢はここに　想い出は遠くに
+Dialogue: 0,0:02:45.48,0:02:55.55,kanji,,0,0,0,,{\fad(150,150)}気付けばそこにあるくらいがいい
+Dialogue: 0,0:02:55.55,0:02:58.79,kanji,,0,0,0,,{\fad(150,150)}黙って引っ張ったりしないでよ
+Dialogue: 0,0:02:58.79,0:03:02.26,kanji,,0,0,0,,{\fad(150,150)}不格好な蝶にしないでよ
+Dialogue: 0,0:03:02.26,0:03:05.73,kanji,,0,0,0,,{\fad(150,150)}結んだつもりがほどいていたり
+Dialogue: 0,0:03:05.73,0:03:11.07,kanji,,0,0,0,,{\fad(150,150)}緩めたつもりが締めていたり
+Dialogue: 0,0:03:34.39,0:03:37.76,kanji,,0,0,0,,{\fad(150,150)}この蒼くて広い世界に
+Dialogue: 0,0:03:37.76,0:03:41.03,kanji,,0,0,0,,{\fad(150,150)}無数に　散らばった中から
+Dialogue: 0,0:03:41.03,0:03:44.54,kanji,,0,0,0,,{\fad(150,150)}別々に二人選んだ糸を
+Dialogue: 0,0:03:44.54,0:03:47.81,kanji,,0,0,0,,{\fad(150,150)}お互いたぐり寄せ合ったんだ
+Dialogue: 0,0:03:47.81,0:03:51.24,kanji,,0,0,0,,{\fad(150,150)}結ばれたんじゃなく結んだんだ
+Dialogue: 0,0:03:51.24,0:03:54.68,kanji,,0,0,0,,{\fad(150,150)}二人で「せーの」で引っ張ったんだ
+Dialogue: 0,0:03:54.68,0:03:59.02,kanji,,0,0,0,,{\fad(150,150)}大きくも　小さくも　なりすぎないように
+Dialogue: 0,0:03:59.02,0:04:01.49,kanji,,0,0,0,,{\fad(150,150)}力を込めたんだ
+Dialogue: 0,0:04:01.49,0:04:04.86,kanji,,0,0,0,,{\fad(150,150)}この蒼くて広い世界に
+Dialogue: 0,0:04:04.86,0:04:08.13,kanji,,0,0,0,,{\fad(150,150)}無数に　散らばった中から
+Dialogue: 0,0:04:08.13,0:04:11.64,kanji,,0,0,0,,{\fad(150,150)}別々に二人選んだ糸を
+Dialogue: 0,0:04:11.64,0:04:14.91,kanji,,0,0,0,,{\fad(150,150)}お互いたぐり寄せ合ったんだ
+Dialogue: 0,0:04:14.91,0:04:18.34,kanji,,0,0,0,,{\fad(150,150)}結ばれたんじゃなく結んだんだ
+Dialogue: 0,0:04:18.34,0:04:21.78,kanji,,0,0,0,,{\fad(150,150)}二人で「せーの」で引っ張ったんだ
+Dialogue: 0,0:04:21.78,0:04:26.12,kanji,,0,0,0,,{\fad(150,150)}大きくも　小さくも　なりすぎないように
+Dialogue: 0,0:04:26.12,0:04:28.59,kanji,,0,0,0,,{\fad(150,150)}力を込めたんだ
+Dialogue: 0,0:00:00.00,0:00:05.00,kanji,,0,0,0,,{\fad(150,150)}
+Dialogue: 0,0:00:20.44,0:00:26.94,Translate,,0,0,0,,{\fad(150,150)}Bentuk lingkaran dengan salah satu ujung tali dan pegang dengan erat
+Dialogue: 0,0:00:26.94,0:00:33.45,Translate,,0,0,0,,{\fad(150,150)}Dan dengan ujung lainnya, putar ke belakang melalui lingkaran yang terbentuk
+Dialogue: 0,0:00:33.45,0:00:40.16,Translate,,0,0,0,,{\fad(150,150)}Masukkan tali ke dalam kantung yang terbentuk dan tunggu talinya keluar
+Dialogue: 0,0:00:40.16,0:00:43.92,Translate,,0,0,0,,{\fad(150,150)}Terima ujung tali, dari tempat tali akan keluar
+Dialogue: 0,0:00:43.92,0:00:48.23,Translate,,0,0,0,,{\fad(150,150)}Satu-dua, tarik talinya dengan kuat
+Dialogue: 0,0:00:48.23,0:00:54.30,Translate,,0,0,0,,{\fad(150,150)}Meski pada awalnya, bentuknya tidak keruan
+Dialogue: 0,0:00:54.30,0:01:04.34,Translate,,0,0,0,,{\fad(150,150)}tapi cukup kerahkan saja tenaga dalam ukuran yang sama
+Dialogue: 0,0:01:04.34,0:01:10.55,Translate,,0,0,0,,{\fad(150,150)}Agar sayap kupu-kupunya besar dan simpulnya terikat erat
+Dialogue: 0,0:01:10.55,0:01:17.86,Translate,,0,0,0,,{\fad(150,150)}Kuingin kau mengikatnya dengan kuat
+Dialogue: 0,0:01:17.86,0:01:24.26,Translate,,0,0,0,,{\fad(150,150)}Kuingin, kuingin Lenganmu selalu ada di sini
+Dialogue: 0,0:01:24.26,0:01:31.64,Translate,,0,0,0,,{\fad(150,150)}dan tinggalkanlah segala kenanganmu jauh di sana
+Dialogue: 0,0:01:41.60,0:01:48.36,Translate,,0,0,0,,{\fad(150,150)}Simpulnya akan terurai meski kau hanya melepas sebelah saja
+Dialogue: 0,0:01:48.36,0:01:54.39,Translate,,0,0,0,,{\fad(150,150)}Karena merusak sesuatu yang dibuat itu jauh lebih mudah
+Dialogue: 0,0:01:54.39,0:02:01.77,Translate,,0,0,0,,{\fad(150,150)}Namun hal itu juga sama persis ketika kita hendak melepas simpulnya
+Dialogue: 0,0:02:01.77,0:02:04.87,Translate,,0,0,0,,{\fad(150,150)}Aku paham akan hal itu, Namun saat simpul terbentuk
+Dialogue: 0,0:02:04.87,0:02:09.11,Translate,,0,0,0,,{\fad(150,150)}Satu-dua, tarik talinya dengan kuat
+Dialogue: 0,0:02:09.11,0:02:15.58,Translate,,0,0,0,,{\fad(150,150)}Aku berharap dengan sangat agar simpulnya tak terlepas
+Dialogue: 0,0:02:15.58,0:02:25.39,Translate,,0,0,0,,{\fad(150,150)}Namun aku menjadi ragu ketika salah satu sayap menjadi terlalu besar
+Dialogue: 0,0:02:25.39,0:02:31.90,Translate,,0,0,0,,{\fad(150,150)}Agar sayap kupu-kupunya besar dan simpulnya terikat erat
+Dialogue: 0,0:02:31.90,0:02:39.11,Translate,,0,0,0,,{\fad(150,150)}Kuingin kau mengikatnya dengan kuat
+Dialogue: 0,0:02:39.11,0:02:45.48,Translate,,0,0,0,,{\fad(150,150)}Mimpimu ada di sini Kenanganmu jauh di sana
+Dialogue: 0,0:02:45.48,0:02:55.55,Translate,,0,0,0,,{\fad(150,150)}Ketika kita menyadarinya, Sepertinya lebih baik begini saja
+Dialogue: 0,0:02:55.55,0:02:58.79,Translate,,0,0,0,,{\fad(150,150)}Jangan menarik tali tanpa berkata apa-apa
+Dialogue: 0,0:02:58.79,0:03:02.26,Translate,,0,0,0,,{\fad(150,150)}Jangan sampai menjadi simpul kupu-kupu yang asimetris
+Dialogue: 0,0:03:02.26,0:03:05.73,Translate,,0,0,0,,{\fad(150,150)}Ketika kita ingin mengikatnya, simpulnya malah terlepas
+Dialogue: 0,0:03:05.73,0:03:11.07,Translate,,0,0,0,,{\fad(150,150)}Ketika kita ingin melepasnya, simpulnya malah bertambah erat
+Dialogue: 0,0:03:34.39,0:03:37.76,Translate,,0,0,0,,{\fad(150,150)}Dalam luas dan birunya bumi ini,
+Dialogue: 0,0:03:37.76,0:03:41.03,Translate,,0,0,0,,{\fad(150,150)}Di antara segala yang berhamburan tak terhingga
+Dialogue: 0,0:03:41.03,0:03:44.54,Translate,,0,0,0,,{\fad(150,150)}Kita memilih tali masing-masing dan saling menggulung tali itu
+Dialogue: 0,0:03:44.54,0:03:47.81,Translate,,0,0,0,,{\fad(150,150)}agar menjadi dekat satu sama lain
+Dialogue: 0,0:03:47.81,0:03:51.24,Translate,,0,0,0,,{\fad(150,150)}Kita bukan terikat untuk bersama, namun kitalah yang menjalinnya berdua
+Dialogue: 0,0:03:51.24,0:03:54.68,Translate,,0,0,0,,{\fad(150,150)}Satu-dua, Kita berdua menarik talinya dengan kuat
+Dialogue: 0,0:03:54.68,0:03:59.02,Translate,,0,0,0,,{\fad(150,150)}Kerahkanlah tenaga yang cukup, agar simpul yang terbentuk
+Dialogue: 0,0:03:59.02,0:04:01.49,Translate,,0,0,0,,{\fad(150,150)}tidak terlalu besar dan tidak terlalu kecil
+Dialogue: 0,0:04:01.49,0:04:04.86,Translate,,0,0,0,,{\fad(150,150)}Dalam luas dan birunya bumi ini,
+Dialogue: 0,0:04:04.86,0:04:08.13,Translate,,0,0,0,,{\fad(150,150)}Di antara segala yang berhamburan tak terhingga
+Dialogue: 0,0:04:08.13,0:04:11.64,Translate,,0,0,0,,{\fad(150,150)}Kita memilih tali masing-masing dan saling menggulung tali itu
+Dialogue: 0,0:04:11.64,0:04:14.91,Translate,,0,0,0,,{\fad(150,150)}agar menjadi dekat satu sama lain
+Dialogue: 0,0:04:14.91,0:04:18.34,Translate,,0,0,0,,{\fad(150,150)}Kita bukan terikat untuk bersama, namun kitalah yang menjalinnya berdua
+Dialogue: 0,0:04:18.34,0:04:21.78,Translate,,0,0,0,,{\fad(150,150)}Satu-dua, Kita berdua menarik talinya dengan kuat
+Dialogue: 0,0:04:21.78,0:04:26.12,Translate,,0,0,0,,{\fad(150,150)}Kerahkanlah tenaga yang cukup, agar simpul yang terbentuk
+Dialogue: 0,0:04:26.12,0:04:28.59,Translate,,0,0,0,,{\fad(150,150)}tidak terlalu besar dan tidak terlalu kecil
+Dialogue: 0,0:00:00.00,0:00:05.00,Translate,,0,0,0,,{\fad(150,150)}
