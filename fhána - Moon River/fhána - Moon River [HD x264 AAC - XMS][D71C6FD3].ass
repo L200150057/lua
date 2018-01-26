@@ -17,9 +17,7 @@ Video File: fhána - Moon River [HD x264 AAC - XMS][D71C6FD3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 90
-Active Line: 93
-Video Position: 6003
+Video Position: 4333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +25,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 Style: kanji,AR PL UKai CN,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,2,0,1,0,0,8,10,10,83,0
 Style: romaji,Macondo,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,33,1
 Style: Translate,Ubuntu Condensed,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,0,15,1
-Style: Credit,Berkshire Swash,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Credit,Ubuntu,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,10,10,10,1
 Style: ED Kanji,KG Chasing Pavements,40,&H00000000,&H000000FF,&H00422011,&HB4000000,0,0,0,0,100,100,1,0,1,0,0,7,30,30,55,1
 
 [Fonts]
@@ -849,7 +847,7 @@ $%&B9X6U:3ZT>W&T;"&"9WFS9X6N:GRF?#ZT>W&T;!R">'FM:'5O=X>B=WA0172J:8*F=WFT,H.X98.I
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:54.90,0:02:59.53,Credit,,0,0,0,,{\fad(150,150)}Subtitle by Uma-poi
+Dialogue: 0,0:02:54.90,0:02:59.53,Credit,,0,0,0,,{\fade(350, 350)}#Subtitle by Uma-poi
 Dialogue: 0,0:00:05.77,0:00:10.40,romaji,,0,0,0,,{\fad(150,150)}Tsuki wo medete wa toki ni wa nusunde
 Dialogue: 0,0:00:10.40,0:00:15.03,romaji,,0,0,0,,{\fad(150,150)}Kimagure na kanojo wa ah..
 Dialogue: 0,0:00:15.03,0:00:19.70,romaji,,0,0,0,,{\fad(150,150)}Kawabe de hitori hoho ni namida
